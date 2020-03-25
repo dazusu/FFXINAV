@@ -27,6 +27,7 @@ unload
 Initialize
 GetErrorMessage
 findPath_DSP_NAV_Files(position_t start, position_t end);
+findPath(position_t start, position_t end);
 isNavMeshEnabled
 Pathpoints
 Get_m_points_X
