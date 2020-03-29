@@ -82,15 +82,8 @@ This is trial and error atm.
 
 Settings I have been using are  
 
- * Cell size =30 
+![settings](https://i.ibb.co/Dfr1x4b/settings.jpg)
 
- * Cell height = 20 
-
- * Agent radius = 4 
-
- * Detailed mesh sample distance = 3 
-
- * Tile size 32, 48 or 64.  
 
 You may have to go in and remove parts of the mesh using the Create tiles tool. Shift key + left mouse button removes tile. 
 
