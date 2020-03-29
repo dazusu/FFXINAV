@@ -1,0 +1,1 @@
+23/03/2020 00:44:27, Unable to load DLL 'EliteAPI.dll': A dynamic link library (DLL) initialization routine failed. (Exception from HRESULT: 0x8007045A), at line 105,(GetProcess) ,ffxiProcess

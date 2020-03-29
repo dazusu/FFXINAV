@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPointsOfInterest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PointsOfInterest id="100" name="South Sandy" x="-142.86499" y="-59.91216" z="255.928314" />
+  <PointsOfInterest id="100" name="North Sandy" x="-165.53" y="-62" z="379.4" />
+  <PointsOfInterest id="100" name="OP" x="-450.15" y="-19.8699989" z="-216.180008" />
+  <PointsOfInterest id="100" name="Ghelsba Outpost" x="-735.279663" y="-64.72679" z="612.067566" />
+</ArrayOfPointsOfInterest>
