@@ -1,0 +1,11 @@
+NOESIS_SCENE_FILE
+version 1
+physicslib ""
+defaultAxis "0"
+
+object
+{
+name "Environment"
+model "C:/Program Files (x86)/NasomiXI/SquareEnix/FINAL FANTASY XI/ROM/1/77.DAT"
+loadOptions "-ff11blendhack 0.99 -ff11keepnames -ff11optimizegeo"
+} 
