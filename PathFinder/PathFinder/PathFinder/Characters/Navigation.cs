@@ -187,18 +187,18 @@ namespace PathFinder.Characters
                 var i = DistanceTo(TargetPosition);
                 SetViewMode(ViewMode.FirstPerson);
                 FaceHeading(TargetPosition);
-                // KeepRunningWithKeyboard();
-                Character.Api.AutoFollow.SetAutoFollowCoords(
-                 TargetPosition.X - player.X,
-                 TargetPosition.Y - player.Y,
-                  TargetPosition.Z - player.Z);
+                 KeepRunningWithKeyboard();
+                //Character.Api.AutoFollow.SetAutoFollowCoords(
+                // TargetPosition.X - player.X,
+                // TargetPosition.Y - player.Y,
+                //  TargetPosition.Z - player.Z);
 
-                Character.Api.AutoFollow.IsAutoFollowing = true;
+              //  Character.Api.AutoFollow.IsAutoFollowing = true;
 
                 if (useObjectAvoidance) AvoidObstacles();
             }
 
-            Character.Api.AutoFollow.IsAutoFollowing = false;
+           //Character.Api.AutoFollow.IsAutoFollowing = false;
 
         }
 

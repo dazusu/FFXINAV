@@ -11,3 +11,15 @@ C:\Projects\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.CoreCompileInputs.
 C:\Projects\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.CopyComplete
 C:\Projects\PathFinder\PathFinder\obj\Debug\PathFinder.exe
 C:\Projects\PathFinder\PathFinder\obj\Debug\PathFinder.pdb
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\bin\Debug\PathFinder.exe.config
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.csprojAssemblyReference.cache
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.MainForm.resources
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.Properties.Resources.resources
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.ToonControl.resources
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.GenerateResource.cache
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.CopyComplete
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.exe
+C:\Users\xenonsmurf\Documents\GitHub\FFXINAV\PathFinder\PathFinder\PathFinder\obj\Debug\PathFinder.pdb
